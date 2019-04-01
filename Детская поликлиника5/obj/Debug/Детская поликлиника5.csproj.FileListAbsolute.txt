@@ -1,0 +1,32 @@
+C:\Users\Милашка\source\repos\Детская поликлиника5\Детская поликлиника5\bin\Debug\Database1.mdf
+C:\Users\Милашка\source\repos\Детская поликлиника5\Детская поликлиника5\bin\Debug\Database1_log.ldf
+C:\Users\Милашка\source\repos\Детская поликлиника5\Детская поликлиника5\bin\Debug\Детская поликлиника5.exe.config
+C:\Users\Милашка\source\repos\Детская поликлиника5\Детская поликлиника5\bin\Debug\Детская поликлиника5.exe
+C:\Users\Милашка\source\repos\Детская поликлиника5\Детская поликлиника5\bin\Debug\Детская поликлиника5.pdb
+C:\Users\Милашка\source\repos\Детская поликлиника5\Детская поликлиника5\obj\Debug\Детская поликлиника5.csprojAssemblyReference.cache
+C:\Users\Милашка\source\repos\Детская поликлиника5\Детская поликлиника5\obj\Debug\Детская_поликлиника5.Form1.resources
+C:\Users\Милашка\source\repos\Детская поликлиника5\Детская поликлиника5\obj\Debug\Детская_поликлиника5.Form2.resources
+C:\Users\Милашка\source\repos\Детская поликлиника5\Детская поликлиника5\obj\Debug\Детская_поликлиника5.Form3.resources
+C:\Users\Милашка\source\repos\Детская поликлиника5\Детская поликлиника5\obj\Debug\Детская_поликлиника5.Form4.resources
+C:\Users\Милашка\source\repos\Детская поликлиника5\Детская поликлиника5\obj\Debug\Детская_поликлиника5.Form5.resources
+C:\Users\Милашка\source\repos\Детская поликлиника5\Детская поликлиника5\obj\Debug\Детская_поликлиника5.Properties.Resources.resources
+C:\Users\Милашка\source\repos\Детская поликлиника5\Детская поликлиника5\obj\Debug\Детская поликлиника5.csproj.GenerateResource.cache
+C:\Users\Милашка\source\repos\Детская поликлиника5\Детская поликлиника5\obj\Debug\Детская поликлиника5.csproj.CoreCompileInputs.cache
+C:\Users\Милашка\source\repos\Детская поликлиника5\Детская поликлиника5\obj\Debug\Детская поликлиника5.exe
+C:\Users\Милашка\source\repos\Детская поликлиника5\Детская поликлиника5\obj\Debug\Детская поликлиника5.pdb
+C:\Users\Милашка\Downloads\klyuchnikova-master\klyuchnikova-master\Детская поликлиника5\Детская поликлиника5\bin\Debug\Database1.mdf
+C:\Users\Милашка\Downloads\klyuchnikova-master\klyuchnikova-master\Детская поликлиника5\Детская поликлиника5\bin\Debug\Database1_log.ldf
+C:\Users\Милашка\Downloads\klyuchnikova-master\klyuchnikova-master\Детская поликлиника5\Детская поликлиника5\obj\Debug\Детская поликлиника5.csprojAssemblyReference.cache
+C:\Users\Милашка\Downloads\klyuchnikova-master\klyuchnikova-master\Детская поликлиника5\Детская поликлиника5\obj\Debug\Детская_поликлиника5.Form1.resources
+C:\Users\Милашка\Downloads\klyuchnikova-master\klyuchnikova-master\Детская поликлиника5\Детская поликлиника5\obj\Debug\Детская_поликлиника5.Form2.resources
+C:\Users\Милашка\Downloads\klyuchnikova-master\klyuchnikova-master\Детская поликлиника5\Детская поликлиника5\obj\Debug\Детская_поликлиника5.Form3.resources
+C:\Users\Милашка\Downloads\klyuchnikova-master\klyuchnikova-master\Детская поликлиника5\Детская поликлиника5\obj\Debug\Детская_поликлиника5.Form4.resources
+C:\Users\Милашка\Downloads\klyuchnikova-master\klyuchnikova-master\Детская поликлиника5\Детская поликлиника5\obj\Debug\Детская_поликлиника5.Form5.resources
+C:\Users\Милашка\Downloads\klyuchnikova-master\klyuchnikova-master\Детская поликлиника5\Детская поликлиника5\obj\Debug\Детская_поликлиника5.Properties.Resources.resources
+C:\Users\Милашка\Downloads\klyuchnikova-master\klyuchnikova-master\Детская поликлиника5\Детская поликлиника5\obj\Debug\Детская поликлиника5.csproj.GenerateResource.cache
+C:\Users\Милашка\Downloads\klyuchnikova-master\klyuchnikova-master\Детская поликлиника5\Детская поликлиника5\obj\Debug\Детская поликлиника5.csproj.CoreCompileInputs.cache
+C:\Users\Милашка\Downloads\klyuchnikova-master\klyuchnikova-master\Детская поликлиника5\Детская поликлиника5\obj\Debug\Детская поликлиника5.exe
+C:\Users\Милашка\Downloads\klyuchnikova-master\klyuchnikova-master\Детская поликлиника5\Детская поликлиника5\obj\Debug\Детская поликлиника5.pdb
+C:\Users\Милашка\Downloads\klyuchnikova-master\klyuchnikova-master\Детская поликлиника5\Детская поликлиника5\bin\Debug\Детская поликлиника5.exe.config
+C:\Users\Милашка\Downloads\klyuchnikova-master\klyuchnikova-master\Детская поликлиника5\Детская поликлиника5\bin\Debug\Детская поликлиника5.exe
+C:\Users\Милашка\Downloads\klyuchnikova-master\klyuchnikova-master\Детская поликлиника5\Детская поликлиника5\bin\Debug\Детская поликлиника5.pdb
